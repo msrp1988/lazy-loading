@@ -1,0 +1,16 @@
+.container{
+    height: 40px;
+    width: 70%;
+    margin: 0 auto;
+    background: rgb(245, 241, 241);
+    border: 1px solid lightblue;
+}
+
+ul li{
+    float: left;
+    margin-left: 40px;
+    list-style-type: none;
+}
+ul li a{
+    text-decoration: none;
+}
